@@ -1,2 +1,4 @@
 # hello-world
-my first repo
+Hi! RM Barnuevo
+Im 21 years old
+lalalala
